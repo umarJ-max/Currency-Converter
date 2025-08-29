@@ -225,7 +225,7 @@ For support, issues, or feature requests, please create an issue in the reposito
 **Built with ❤️ by Umar J**
 
 ### 🔗 Quick Links
-- [Live Demo](#) (Replace with your Vercel URL)
+- [Live Demo](#-https://currency-converter-taupe-beta.vercel.app/)
 - [API Documentation](#-api-documentation)
 - [Deployment Guide](#-deployment-on-vercel)
 - [Contributing](#-contributing)
